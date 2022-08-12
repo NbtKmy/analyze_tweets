@@ -1,0 +1,228 @@
+{
+    "tokens": [
+        {
+            "token": "その",
+            "start_offset": 0,
+            "end_offset": 2,
+            "type": "word",
+            "position": 0
+        },
+        {
+            "token": "オリンピック",
+            "start_offset": 2,
+            "end_offset": 8,
+            "type": "word",
+            "position": 1
+        },
+        {
+            "token": "選手",
+            "start_offset": 8,
+            "end_offset": 10,
+            "type": "word",
+            "position": 2
+        },
+        {
+            "token": "は",
+            "start_offset": 10,
+            "end_offset": 11,
+            "type": "word",
+            "position": 3
+        },
+        {
+            "token": "身長",
+            "start_offset": 11,
+            "end_offset": 13,
+            "type": "word",
+            "position": 4
+        },
+        {
+            "token": "196",
+            "start_offset": 13,
+            "end_offset": 16,
+            "type": "word",
+            "position": 5
+        },
+        {
+            "token": "センチ",
+            "start_offset": 16,
+            "end_offset": 17,
+            "type": "word",
+            "position": 6
+        },
+        {
+            "token": "という",
+            "start_offset": 17,
+            "end_offset": 20,
+            "type": "word",
+            "position": 7
+        },
+        {
+            "token": "長身",
+            "start_offset": 20,
+            "end_offset": 22,
+            "type": "word",
+            "position": 8
+        },
+        {
+            "token": "だっ",
+            "start_offset": 22,
+            "end_offset": 24,
+            "type": "word",
+            "position": 9
+        },
+        {
+            "token": "た",
+            "start_offset": 24,
+            "end_offset": 25,
+            "type": "word",
+            "position": 10
+        },
+        {
+            "token": "人人",
+            "start_offset": 26,
+            "end_offset": 28,
+            "type": "word",
+            "position": 11
+        },
+        {
+            "token": "は",
+            "start_offset": 28,
+            "end_offset": 29,
+            "type": "word",
+            "position": 12
+        },
+        {
+            "token": "おどろい",
+            "start_offset": 29,
+            "end_offset": 33,
+            "type": "word",
+            "position": 13
+        },
+        {
+            "token": "た",
+            "start_offset": 33,
+            "end_offset": 34,
+            "type": "word",
+            "position": 14
+        },
+        {
+            "token": "二",
+            "start_offset": 35,
+            "end_offset": 36,
+            "type": "word",
+            "position": 15
+        },
+        {
+            "token": "〇",
+            "start_offset": 36,
+            "end_offset": 37,
+            "type": "word",
+            "position": 16
+        },
+        {
+            "token": "〇",
+            "start_offset": 37,
+            "end_offset": 38,
+            "type": "word",
+            "position": 17
+        },
+        {
+            "token": "〇",
+            "start_offset": 38,
+            "end_offset": 39,
+            "type": "word",
+            "position": 18
+        },
+        {
+            "token": "人",
+            "start_offset": 39,
+            "end_offset": 40,
+            "type": "word",
+            "position": 19
+        },
+        {
+            "token": "が",
+            "start_offset": 40,
+            "end_offset": 41,
+            "type": "word",
+            "position": 20
+        },
+        {
+            "token": "オリンピック",
+            "start_offset": 41,
+            "end_offset": 47,
+            "type": "word",
+            "position": 21
+        },
+        {
+            "token": "を",
+            "start_offset": 47,
+            "end_offset": 48,
+            "type": "word",
+            "position": 22
+        },
+        {
+            "token": "観戦",
+            "start_offset": 48,
+            "end_offset": 50,
+            "type": "word",
+            "position": 23
+        },
+        {
+            "token": "し",
+            "start_offset": 50,
+            "end_offset": 51,
+            "type": "word",
+            "position": 24
+        },
+        {
+            "token": "ながら",
+            "start_offset": 51,
+            "end_offset": 54,
+            "type": "word",
+            "position": 25
+        },
+        {
+            "token": "コンピューター",
+            "start_offset": 54,
+            "end_offset": 61,
+            "type": "word",
+            "position": 26
+        },
+        {
+            "token": "を",
+            "start_offset": 61,
+            "end_offset": 62,
+            "type": "word",
+            "position": 27
+        },
+        {
+            "token": "つかっ",
+            "start_offset": 62,
+            "end_offset": 65,
+            "type": "word",
+            "position": 28
+        },
+        {
+            "token": "て",
+            "start_offset": 65,
+            "end_offset": 66,
+            "type": "word",
+            "position": 29
+        },
+        {
+            "token": "い",
+            "start_offset": 66,
+            "end_offset": 67,
+            "type": "word",
+            "position": 30
+        },
+        {
+            "token": "た",
+            "start_offset": 67,
+            "end_offset": 68,
+            "type": "word",
+            "position": 31
+        }
+    ]
+}

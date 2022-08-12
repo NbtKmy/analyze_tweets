@@ -17,8 +17,8 @@ search_url = 'https://api.twitter.com/2/tweets/search/all'
 def create_query(nextToken):
 
     # Zeitangabe in JST
-    jst_st = datetime.datetime(2021, 3, 1, 0, 0, 0, 0, datetime.timezone(timedelta(hours=+9)))
-    jst_et = datetime.datetime(2021, 3, 31, 23, 59, 59, 999999, datetime.timezone(timedelta(hours=+9)))
+    jst_st = datetime.datetime(2021, 4, 1, 0, 0, 0, 0, datetime.timezone(timedelta(hours=+9)))
+    jst_et = datetime.datetime(2021, 5, 1, 0, 0, 0, 0, datetime.timezone(timedelta(hours=+9)))
     # Zeitangabe nach UTC umschreiben
     utc_st = jst_st.astimezone(timezone.utc)
     utc_st = utc_st.isoformat()

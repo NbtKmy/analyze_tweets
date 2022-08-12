@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "analysis": {
+            "analyzer": {
+                "my_kuromoji_analyzer": {
+                    "type": "custom",
+                    "char_filter" : ["icu_normalizer", "kuromoji_iteration_mark"],
+                    "tokenizer": "kuromoji_tokenizer"
+                }
+            }
+        }
+    }
+}
