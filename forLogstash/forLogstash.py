@@ -6,8 +6,8 @@ def forLogstash(csv_data):
     new_df.to_csv('tweetsdata.csv', index = False, float_format='%.0f')
 
 if __name__ == "__main__":
-    path_to_data = './tweetsdata/'
-    data_name = 'tweetsdata_202103.csv'
+    path_to_data = '../'
+    data_name = 'tweetsdata_202101.csv'
     data = path_to_data + data_name
     forLogstash(data)
     
