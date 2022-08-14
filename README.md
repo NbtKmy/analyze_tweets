@@ -1,11 +1,16 @@
 # Analyzing tweets
 
-Dieses Repository enthält sowohl die Daten, die für Tweets-Analyse gesammelt worden sind, als auch die Codes, die für die Sammeln/Erstellung/Verarbeitung der Daten geschrieben sind.
-Die Daten sind jeweils in den Ordner "daten", "corpus" und "models" unterbracht. 
-Die jeweiliegen Ordner haben ;
-* Tweetsdaten - aus den Monaten Jan., Feb. und März 2021 (Anonymisiert und, Hashtag & URL sind entfernt)
-* Korpus, die aus den jeweiligen monatlichen Tweetsdaten durch die Code createCorpus3.py erstellt sind
-* Word2Vec-Models, die aus den Korpus-Daten durch createModel.py erstellt sind
+Dieses Repository enthält die Codes, die für die Sammeln/Erstellung/Verarbeitung der Daten geschrieben wurden.
 
-Alle Daten sind in tar.xz-Format komprimiert.
+## Ordner "analyzer"
+Im Ordner "analyzer" sind die Konfigurationsfiles für Elasticsearch zu finden.
+
+## Ordner "forLogstash"
+Hier gibt es ein Python-Code, der die gesammelten Tweetsdaten in CSV-Format in eine für Logstash konforme Format umschreibt.
+Die Datei "uploadTweet.conf" steht für die Konfiguration von Logstash
+
+## Ordner "models"
+Hier sind Word2Vec-Modelle, die aus Twitter-Corpus mit Hilfe von Gensim erstellt worden sind
+
+
 
